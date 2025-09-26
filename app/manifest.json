@@ -1,7 +1,9 @@
 {
   "name": "BPM Counter",
   "short_name": "BPM",
-  "start_url": ".",
+  "start_url": "/app/bpmcustom.html",
+  "scope": "/app/",
+  "id": "/app/bpmcustom.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#69b10d",
